@@ -527,6 +527,12 @@ footer{
 
 
 .people-section .filter-btn.active{
-    color: #;
+    color: #ffffff;
 }
 
+.people-section .people-item{
+    background-color: red;
+    flex: 0 0 25%;
+    max-width: 25%;
+    padding: 0 15px;
+}
